@@ -34,7 +34,7 @@ skills = {
   <a href="https://www.linkedin.com/in/rodrigombarros25">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://rodrigoseneca.github.io/rodrigobarros/">
+  <a href="https://sites.google.com/view/rbarros/projects?authuser=0">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white" />
   </a>
 </div>
