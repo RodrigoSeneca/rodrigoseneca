@@ -8,11 +8,14 @@
   <p>Data-driven analyst specializing in SQL, Python, and business intelligence.</p>
 </div>
 
-<div align="center">
-  
-<pre> ```python skills = { "languages": ["Python", "SQL", "R"], "bi_tools": ["PowerBI", "Looker Studio", "Tableau"], "databases": ["MySQL", "MongoDB"], "libraries": ["pandas", "numpy", "matplotlib", "seaborn"] } ``` </pre>
-  
-</div>
+```python
+skills = {
+    "languages":  ["Python", "SQL", "R"],
+    "bi_tools":   ["PowerBI", "Looker Studio", "Tableau"],
+    "databases":  ["MySQL", "MongoDB"],
+    "libraries":  ["pandas", "numpy", "matplotlib", "seaborn"]
+}
+```
 
 <div align="center">
   🔍 Currently exploring <b>Data Engineering & ETL Pipelines</b>
