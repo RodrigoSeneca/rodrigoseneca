@@ -63,6 +63,3 @@ skills = {
 </div>
 
 ---
-
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoseneca&show_icons=true&theme=radical)
-
