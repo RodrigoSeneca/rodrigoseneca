@@ -10,17 +10,7 @@
 
 <div align="center">
   
-```python
-skills = {
-  "languages": ["Python", "SQL", "R"],
-
-  "bi_tools": ["PowerBI", "Looker Studio", "Tableau"],
-
-  "databases": ["MySQL", "MongoDB"],
-
-  "libraries": ["pandas", "numpy", "matplotlib", "seaborn"]
-}
-```
+<pre> ```python skills = { "languages": ["Python", "SQL", "R"], "bi_tools": ["PowerBI", "Looker Studio", "Tableau"], "databases": ["MySQL", "MongoDB"], "libraries": ["pandas", "numpy", "matplotlib", "seaborn"] } ``` </pre>
   
 </div>
 
