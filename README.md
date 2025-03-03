@@ -64,6 +64,5 @@ skills = {
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigoseneca/rodrigoseneca/output/github-contribution-grid-snake.svg" />
-</div>
+![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoseneca&show_icons=true&theme=radical)
+
